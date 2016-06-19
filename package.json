@@ -1,6 +1,6 @@
 {
   "name": "twixt-click",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "attach click event clickrs",
   "main": "click.js",
   "scripts": {
